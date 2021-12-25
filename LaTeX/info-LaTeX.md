@@ -81,4 +81,4 @@ to `settings.json`. I also added a `.gitignore` with
 *.fdb_latexmk
 ```
 
-since some non-pdf files were still output into the current director.
+since some non-pdf files were still output into the current directory.
