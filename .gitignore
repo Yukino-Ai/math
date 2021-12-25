@@ -1,4 +1,5 @@
 # LaTeX extra files (e.g. aux)
 *.fls
 *.synctex.gz
+*.log
 out/

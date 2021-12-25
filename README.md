@@ -16,7 +16,7 @@ This article explores potential connections between Ben Green's recent paper on 
 
 #### Other links
 
-Quanta Magazine article:
+Quanta Magazine article:  
 [⚛ Mathematician Hurls Structure and Disorder Into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)
 
 ---
