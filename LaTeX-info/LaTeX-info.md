@@ -1,10 +1,12 @@
-# README.md
+# LaTeX-info.md
 
 This folder stores LaTeX templates among other boilerplate for LaTeX.
 
 ## Links
 
-[📝 The Not So Short Introduction to LATEX 2ε](https://gking.harvard.edu/files/lshort2.pdf)
+## [📝 The Not So Short Introduction to LATEX 2ε](https://gking.harvard.edu/files/lshort2.pdf)
+
+---
 
 ## LaTeX Workshop config
 

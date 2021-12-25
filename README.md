@@ -2,19 +2,24 @@
 
 This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
-## Repo structure
+## 📅 Articles by date
 
-The repo lists articles by the dates I started working on them, e.g.
+| Article folder  | Date created | Date last updated |
+| --------------- | ------------ | ----------------- |
+| Christmas-snake | 2021-12-25   | ...               |
 
-```
-2021/25/12/1
-```
+## ❄ Article descriptions
 
-would host the first article I started working on December 25, 2021. I'll add descriptions of the articles below (e.g. name, field/subfield tags, etc.). This is probably websites like arxiv exists rather than people just dumping the folders holding their LaTeX projects.
+### Christmas-snake
 
-## 📅 Articles descriptions
+This article explores potential connections between Ben Green's recent paper on van der Waerden numbers [📝 here](https://arxiv.org/abs/2102.01543) and switched systems (e.g. see these [📝 lecture notes](https://personal.utdallas.edu/~makarenkov/notes_switched_systems.pdf) by [👤 Oleg Makarenkov](https://personal.utdallas.edu/~makarenkov/)).
 
-TBA
+#### Other links
+
+Quanta Magazine article:
+[⚛ Mathematician Hurls Structure and Disorder Into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)
+
+---
 
 ## Why not a (svelte) blog with KaTeX?
 
@@ -23,6 +28,8 @@ I've thought about making a math blog using Svelte and SSR KaTeX, but I don't th
 > I don't know solution of how to use it in Svelte dirrectly, but what about using it through [mdsvex](https://github.com/pngwn/MDsveX)? You can use [remark and rehype plugins](https://mdsvex.com/docs#remarkplugins--rehypeplugins) and yes, there is [KaTeX](https://github.com/remarkjs/remark-math/tree/HEAD/packages/rehype-katex).
 
 I'd rather spend time writing math rather than making dependencies work.
+
+---
 
 ## 🔗 Links
 
