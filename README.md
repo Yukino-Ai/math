@@ -12,7 +12,7 @@ This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
 ### Christmas-snake
 
-This article explores potential connections between Ben Green's recent paper on van der Waerden numbers [📝 here](https://arxiv.org/abs/2102.01543) and switched systems (e.g. see these [📝 lecture notes](https://personal.utdallas.edu/~makarenkov/notes_switched_systems.pdf) by [👤 Oleg Makarenkov](https://personal.utdallas.edu/~makarenkov/)).
+This article explores potential connections between [👤 Ben Green](http://people.maths.ox.ac.uk/greenbj/)'s recent paper on van der Waerden numbers [📝 here](https://arxiv.org/abs/2102.01543) and switched systems (e.g. see these [📝 lecture notes](https://personal.utdallas.edu/~makarenkov/notes_switched_systems.pdf) by [👤 Oleg Makarenkov](https://personal.utdallas.edu/~makarenkov/)).
 
 #### Other links
 
