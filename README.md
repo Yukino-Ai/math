@@ -17,7 +17,8 @@ This article explores potential connections between [👤 Ben Green](http://peop
 #### Other links
 
 Quanta Magazine article:  
-[⚛ Mathematician Hurls Structure and Disorder Into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)
+[⚛ Mathematician Hurls Structure and Disorder Into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)  
+[👤 Erica Klarreich](http://www.ericaklarreich.com/)
 
 ---
 
