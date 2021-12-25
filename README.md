@@ -2,9 +2,15 @@
 
 This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
-## TOC
+## 📅 Articles by date
 
-tba
+To be added! I considered have a file structure like
+
+```
+2021/12/24/1
+```
+
+but that would be too annoying to browse. In addition, articles wouldn't have a fixed date because they can be updated. So for now, you can find the update date of an article by commit history on GitHub, and I can manually list the articles in this section later with the date they are added.
 
 ## Why not a blog with KaTeX?
 
