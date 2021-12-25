@@ -1,6 +1,4 @@
 # LaTeX extra files (e.g. aux)
 *.fls
 *.synctex.gz
-*.aux
-*.log
-*.fdb_latexmk
+out/
