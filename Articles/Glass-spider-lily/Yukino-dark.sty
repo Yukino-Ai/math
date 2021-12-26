@@ -1,0 +1,59 @@
+% 🍎 Standard ams packages 🍏
+% \usepackage{amsmath,amssymb,amsthm,mathtools,enumitem,bm,mathrsfs}
+\usepackage{mathtools}
+
+% 📷 Standard graphics package
+% https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
+%\usepackage{graphicx}
+
+% 📃 Enables enumerated list with custom order preserving labels
+% \begin{enumerate}[label=(s\arabic*), series=name]\end{enumerate}
+% to label with (s1), (s2),...
+% labeling and continuation with same options by \begin{enumerate}[resume*]
+\usepackage{enumitem}
+
+% 🐌 Other packages 🐌
+\usepackage{fontawesome} %http://mirrors.ibiblio.org/CTAN/fonts/fontawesome/doc/fontawesome.pdf
+% \usepackage{relsize}
+%\usepackage{showkeys} % Display refernce keys for editing
+
+% 🌈 Colors 🌈
+\usepackage[]{xcolor}
+
+% Color source:
+% https://en.wikipedia.org/wiki/Traditional_colors_of_Japan
+
+% Define colors.
+\definecolor{internallinkcolor}{HTML}{4D8FAC} % 空色 (Sky blue)
+\definecolor{externallinkcolor}{HTML}{F58F84} % 鴇羽色 (Ibis wing)
+\definecolor{bgColor}{HTML}{27221F} % 墨色 (Ink)
+\definecolor{Color}{HTML}{FFFAFA} % Snow
+
+% 📝 Set document colors
+\pagecolor{bgColor} % Background color
+\color{Color} % Default font color
+
+% 🔗 Link options
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	urlcolor=externallinkcolor,
+	linkcolor=., % "current" color, from xcolor %linkcolor=internallinkcolor,
+	filecolor=externallinkcolor,
+	citecolor=internallinkcolor,
+	breaklinks=true,
+}
+
+% 🎨 Formatting 🎨
+
+% Number equations by section
+% \setcounter{<countername>}{<value>}
+% Equation numbering color
+% https://tex.stackexchange.com/a/292806
+% Requires mathtools package
+
+\numberwithin{equation}{section}
+
+% Relabel subsection
+% https://tex.stackexchange.com/questions/74529/sections-indexed-with-numbers-subsections-with-letters
+% \renewcommand{\thesubsection}{\thesection.\alph{subsection}}
