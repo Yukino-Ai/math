@@ -1,4 +1,9 @@
-# Repo-todo.md
+# `Repo-todo.md`
+
+## LaTeX template
+
+- Make a `.sty` file
+- Update `template.tex` to use `.sty` file
 
 ## Add website
 

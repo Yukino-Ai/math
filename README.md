@@ -1,4 +1,4 @@
-# README.md for [🐙🐱 Yukino-Ai/math](https://github.com/Yukino-Ai/math) repo
+# `README.md` for [🐙🐱 Yukino-Ai/math](https://github.com/Yukino-Ai/math) repo
 
 This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
@@ -29,6 +29,6 @@ Quanta Magazine article:
 
 <details><summary>Background reading on Ramsey theory</summary>
 
-This article works through some simple examples in Ramsey theory. Sources include the [👥 Wikipedia article on Ramsey theory](https://en.wikipedia.org/wiki/Ramsey_theory) and maybe some examples from [📔 The Mathematical Coloring Book](https://en.wikipedia.org/wiki/ The_Mathematical_Coloring_Book) by [👤 Alexander Soifer](https://asoifer.uccs.edu/).
+This article works through some simple examples in Ramsey theory. Sources include the [👥 Wikipedia article on Ramsey theory](https://en.wikipedia.org/wiki/Ramsey_theory) and maybe some examples from [📔 The Mathematical Coloring Book](https://en.wikipedia.org/wiki/The_Mathematical_Coloring_Book) by [👤 Alexander Soifer](https://asoifer.uccs.edu/).
 
 </details>

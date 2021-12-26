@@ -1,4 +1,4 @@
-# FAQ.md
+# `FAQ.md`
 
 ## Why a repo instead of a website (e.g. Svelte + KaTeX)?
 
