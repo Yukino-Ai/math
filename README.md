@@ -14,6 +14,7 @@ This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 ### Christmas-snake
 
 <details><summary>Arithmetic progressions and switched systems</summary>
+
 This article explores potential connections between [👤 Ben Green](http://people.maths.ox.ac.uk/greenbj/)'s recent paper on van der Waerden numbers [📝 here](https://arxiv.org/abs/2102.01543) and switched systems (e.g. see these [📝 lecture notes](https://personal.utdallas.edu/~makarenkov/notes_switched_systems.pdf) by [👤 Oleg Makarenkov](https://personal.utdallas.edu/~makarenkov/)).
 
 #### Other links
@@ -27,5 +28,7 @@ Quanta Magazine article:
 ### Glass-spider-lily
 
 <details><summary>Background reading on Ramsey theory</summary>
+
 This article works through some simple examples in Ramsey theory. Sources include the [👥 Wikipedia article on Ramsey theory](https://en.wikipedia.org/wiki/Ramsey_theory) and maybe some examples from [📔 The Mathematical Coloring Book](https://en.wikipedia.org/wiki/ The_Mathematical_Coloring_Book) by [👤 Alexander Soifer](https://asoifer.uccs.edu/).
+
 </details>
