@@ -1,10 +1,19 @@
-# LaTeX-info.md
+# `LaTeX-info.md`
 
 This folder stores LaTeX templates among other boilerplate for LaTeX.
 
 ## Links
 
-## [📝 The Not So Short Introduction to LATEX 2ε](https://gking.harvard.edu/files/lshort2.pdf)
+[📝 The Not So Short Introduction to LATEX 2ε](https://gking.harvard.edu/files/lshort2.pdf)
+
+Dark-mode for pdf output:  
+[👥 I just discovered...](https://www.reddit.com/r/GradSchool/comments/cmfxjm/i_just_discovered_how_to_make_darkmode_pdfs_in/)  
+/r/GradSchool post
+
+How to add `.sty` files:  
+[👥 Include _.sty file from a super/subdirectory of main _.tex file](https://stackoverflow.com/a/5994232)  
+Stack overflow answer  
+[👤 abcd](https://stackoverflow.com/users/3730911/abcd)
 
 ---
 
