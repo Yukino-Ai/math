@@ -1,12 +1,16 @@
-# `Glass-spider-lily-info.md`
+# `gsl-info.md`
 
 ## Tasks
 
 The followin tasks might be useful for building intuition about Ramsey theory.
 
-### Try to prove Euclid's theorem
+### Try to prove the fundamental theorem of arithmetic
 
-- Are there Ramsey theory flavors of this result or its proof(s)?
+- Restate Theorem `1.1` in terms of partion regularity
+
+#### Show Euclid's theorem (as a corollary or via another proof)
+
+- Are there Ramsey theory flavors of these results or their proof(s)?
 
 ### Try to prove Ramsey's theorem
 

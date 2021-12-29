@@ -15,6 +15,24 @@ How to add `.sty` files:
 Stack overflow answer  
 [👤 abcd](https://stackoverflow.com/users/3730911/abcd)
 
+Theorem counters:  
+[🥞 Setting Counters for Theorems](https://tex.stackexchange.com/a/173353)  
+[👤 Gonzalo Medina](https://tex.stackexchange.com/users/3954/gonzalo-medina)
+
+`\newcommand` with optional argument:  
+[🥞 LaTeX Optional Arguments](https://stackoverflow.com/a/1812224)  
+[👤 miku](https://stackoverflow.com/users/89391/miku)  
+[👤 JesseTG](https://stackoverflow.com/users/1089957/jessetg)
+
+`tcolorbox` versus `mdframed`:  
+[🥞 What are the relative strong and weak points between tcolorbox and mdframed?](https://tex.stackexchange.com/a/139912)  
+[👤 drini](https://tex.stackexchange.com/users/4453/drini)  
+[👤 Sean Allred](https://tex.stackexchange.com/users/17423/sean-allred)
+
+Show url in `References`:  
+[🥞 url not showing in references](https://tex.stackexchange.com/a/171453`)  
+[👤 pst](https://tex.stackexchange.com/users/48251/pst)
+
 ---
 
 ## LaTeX Workshop config

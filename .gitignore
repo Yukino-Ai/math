@@ -2,4 +2,4 @@
 *.fls
 *.synctex.gz
 *.log
-out/
+out-*/

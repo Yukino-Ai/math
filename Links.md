@@ -15,3 +15,6 @@ Stack overflow answer
 Collapse sections in GitHub markdown:  
 [📝 Organizing information with collapsed sections](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)  
 GitHub docs
+
+Dark mode for Wikipedia:  
+[🔗 Wikipedia:Dark mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode)
