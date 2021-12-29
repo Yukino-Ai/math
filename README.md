@@ -4,10 +4,10 @@ This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
 ## 📅 Articles by date
 
-| Article folder    | Date created | Date last updated |
-| ----------------- | ------------ | ----------------- |
-| Christmas-snake   | 2021-12-25   | ...               |
-| Glass-spider-lily | 2021-12-25   | ...               |
+| Article folder    | Date created | Date last updated | `PDF` name |
+| ----------------- | ------------ | ----------------- | ---------- |
+| Christmas-snake   | 2021-12-25   | ...               | TBA        |
+| Glass-spider-lily | 2021-12-25   | ...               | `gsl`      |
 
 ## ❄ Article descriptions
 
