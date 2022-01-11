@@ -1,4 +1,4 @@
-# `README.md` for [🐙🐱 Yukino-Ai/math](https://github.com/Yukino-Ai/math) repo
+# `README.md` for the [Yukino-Ai/math repo](https://github.com/Yukino-Ai/math)
 
 This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
