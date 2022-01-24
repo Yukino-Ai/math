@@ -4,7 +4,7 @@ This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 
 ## 📅 Articles by date
 
-| (Name (folder name)  | Topic      | Date created     | Date last updated |
+| Name (folder name)   | Topic      | Date created     | Date last updated |
 | -------------------- | ---------- | ---------------- | ----------------- |
 | Midnight magpie (mp) | Statistics | January 23, 2022 | ...               |
 
