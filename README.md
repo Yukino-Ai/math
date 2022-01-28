@@ -13,6 +13,6 @@ This repo hosts my math writing (currently using `LaTeX` outputted to `pdf`).
 <details>
 <summary>Midnight magpie</summary>
 
-These are my personal statistics notes for the [TTS data science course](https://github.com/Ai-Yukino/tts-ds) I'm taking. I'll try to be mathematically rigorous but possibly lazy, e.g. writing `real random variable` instead of `continuous data` but not defining what a random variable is.
+These are my personal statistics notes for the Fall 2022 [TTS data science course](https://github.com/Ai-Yukino/tts-ds).
 
 </details>
