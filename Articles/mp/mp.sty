@@ -1,6 +1,6 @@
 % 🍎 Standard ams packages 🍏
 % \usepackage{amsmath,amssymb,amsthm,mathtools,enumitem,bm,mathrsfs}
-\usepackage{mathtools, amsthm, bm}
+\usepackage{mathtools, amsthm, bm, amsmath}
 
 % Centered `:=`
 % 🔗 https://tex.stackexchange.com/a/194353
@@ -36,10 +36,11 @@
 % 🔗 https://tex.stackexchange.com/a/218091
 
 % Define colors
-\definecolor{internallinkcolor}{HTML}{4D8FAC} % 空色 (Sky blue)
-\definecolor{externallinkcolor}{HTML}{ff3500} % 朱色 (Cinnabar)
-\definecolor{bgColor}{HTML}{27221F} % 墨色 (Ink)
-\definecolor{Color}{HTML}{FFFAFA} % Snow
+\definecolor{internallinkcolor}{HTML}{1F4788}
+\definecolor{externallinkcolor}{HTML}{C3272B}
+\definecolor{citecolor}{HTML}{2A603B}
+\definecolor{bgColor}{HTML}{FFFFFF}
+\definecolor{Color}{HTML}{000000}
 
 \definecolor{sakura}{HTML}{FCC9B9} % 桜色 (Cherry blossom)
 \definecolor{gold}{HTML}{FFA400} % 山吹色 (Golden yellow)
@@ -66,7 +67,7 @@
 	urlcolor=externallinkcolor,
 	linkcolor=., % "current" color, from xcolor %linkcolor=internallinkcolor,
 	filecolor=externallinkcolor,
-	citecolor=internallinkcolor,
+	citecolor=citecolor,
 	breaklinks=true,
 }
 
