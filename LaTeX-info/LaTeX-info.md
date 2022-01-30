@@ -79,8 +79,8 @@ See the LaTeX workshop [issue](https://github.com/James-Yu/LaTeX-Workshop/issues
         "-interaction=nonstopmode",
         "-file-line-error",
         "-pdf",
-        "-aux-directory=out",
-        "-output-directory=./",
+        "-aux-directory=./out-%DOCFILE%",
+        "-output-directory=../../Articles",
         "%DOC%"
       ]
     },
@@ -91,12 +91,15 @@ See the LaTeX workshop [issue](https://github.com/James-Yu/LaTeX-Workshop/issues
         "-synctex=1",
         "-interaction=nonstopmode",
         "-file-line-error",
-        "-aux-directory=out",
+        "-aux-directory=./out-%DOCFILE%",
         "-output-directory=./",
         "%DOC%"
       ]
     }
-  ]
+  ],
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  }
 ```
 
 to `settings.json`. I also added a `.gitignore` with
